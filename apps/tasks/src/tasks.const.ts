@@ -1,0 +1,9 @@
+export const TASKS_SERVICE = 'TASKS_SERVICE';
+
+export const TASKS_SERVICES = {
+  CREATE: 'CREATE',
+  UPDATE: 'UPDATE',
+  DELETE: 'DELETE',
+  GET: 'GET',
+  GET_ALL: 'GET_ALL',
+};
